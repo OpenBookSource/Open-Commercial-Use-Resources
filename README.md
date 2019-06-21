@@ -5,7 +5,7 @@
 
 ### MIT
 * [Full Stack Python](https://github.com/mattmakai/fullstackpython.com) 
-
+* [Python for Beginners](https://github.com/mraza007/Python-for-beginners)
 * [Design Patterns in Python Talk](https://github.com/PJUllrich/Design-Patterns)
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
 
