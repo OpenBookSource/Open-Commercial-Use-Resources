@@ -18,6 +18,7 @@
 * [Python for Newbies](https://github.com/NYUDataBootcamp/Book)
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 * [Algorithms and Data Structures with Applications to Graphics and Geometry](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/?uuid=d59a980d-dbaa-4d2f-b66c-9343b93a3086&contributor=&keyword=&subject=Algorithms%20and%20Data%20Structures)
+* [Open Data Structures](https://github.com/patmorin/ods)
 
 ### CC-BY-4.0
 * [Scientific Python Cheat Sheet](https://github.com/IPGP/scientific_python_cheat_sheet)
