@@ -37,8 +37,8 @@
 * [Artificial Neural Networks as Models of Neural Information Processing](https://www.frontiersin.org/research-topics/4817/artificial-neural-networks-as-models-of-neural-information-processing)
 * [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236)
 * [Connectionist Representations of Tonal Music:
-* Discovering Musical Patterns by Interpreting Artificial Neural Networks](http://www.aupress.ca/index.php/books/120273)
-
+* [Discovering Musical Patterns by Interpreting Artificial Neural Networks](http://www.aupress.ca/index.php/books/120273)
+* [Python for Everybody](https://www.py4e.com/)
 
 
 
